@@ -1,9 +1,9 @@
-package main
+package amimugi
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/withzeus/am-i-mugi/adapters"
-	a0handlers "github.com/withzeus/am-i-mugi/handlers/auth0"
+	"github.com/withzeus/amimugi/adapters"
+	a0handlers "github.com/withzeus/amimugi/handlers/auth0"
 )
 
 func UseAuth0Authentication(adp adapters.RouterAdapter) {

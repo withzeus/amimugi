@@ -1,1 +1,1 @@
-# am-i-mugi
+# amimugi

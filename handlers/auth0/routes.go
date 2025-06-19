@@ -4,8 +4,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/withzeus/am-i-mugi/adapters"
-	auth0 "github.com/withzeus/am-i-mugi/platform"
+	"github.com/withzeus/amimugi/adapters"
+	auth0 "github.com/withzeus/amimugi/platform"
 )
 
 type Auth0Handler struct {

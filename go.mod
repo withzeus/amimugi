@@ -1,4 +1,4 @@
-module github.com/withzeus/am-i-mugi
+module github.com/withzeus/amimugi
 
 go 1.23.0
 

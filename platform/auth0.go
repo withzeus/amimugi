@@ -5,7 +5,7 @@ import (
 	"errors"
 
 	"github.com/coreos/go-oidc/v3/oidc"
-	"github.com/withzeus/am-i-mugi/config"
+	"github.com/withzeus/amimugi/config"
 	"golang.org/x/oauth2"
 )
 
